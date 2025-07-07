@@ -4,7 +4,7 @@
 [![LangGraph](https://img.shields.io/badge/Built%20With-LangGraph-orange?logo=langchain)](https://docs.langgraph.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**VidSage** is a smart AI-powered tool that summarizes YouTube videos with incredible precision. Leveraging LangGraph and LLMs like OpenAI or Groq, it extracts keypoints, generates structured summaries of varying lengths (short / medium / long), and gives you the essence of any video in seconds.
+A smart AI-powered tool that summarizes YouTube videos with incredible precision. Leveraging LangGraph and LLMs like Gemini and Groq, it extracts keypoints, generates structured summaries of varying lengths (short / medium / long), and gives you the essence of any video in seconds. Unlike other YT summarizers it can summarize videos dispite of it's length ranging from short videos (2 mins) to 4-5 hours of video.
 
 ---
 
