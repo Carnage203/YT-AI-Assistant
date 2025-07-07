@@ -23,6 +23,6 @@
 
 ---
 
-## 📸 Demo Output (Example)
+## 📸 Work flow and Demo
 ![workflow](flowdiagram.png)
 ![homepage](homepage.png)
