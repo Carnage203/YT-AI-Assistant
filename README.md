@@ -24,4 +24,5 @@
 ---
 
 ## 📸 Demo Output (Example)
-
+![workflow](flowdiagram.png)
+![homepage](homepage.png)
