@@ -1,0 +1,10 @@
+langchain
+langgraph
+ipykernel
+langchain-groq
+IPython
+dotenv
+youtube-transcript-api
+langchain_community
+google-generativeai
+langchain_tavily

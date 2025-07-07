@@ -1,0 +1,21 @@
+[project]
+name = "yt-notes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google-generativeai>=0.8.5",
+    "grpcio>=1.73.1",
+    "ipykernel>=6.29.5",
+    "ipython>=9.3.0",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.26",
+    "langchain-groq>=0.3.4",
+    "langchain-tavily>=0.2.6",
+    "langgraph>=0.4.10",
+    "pyperclip>=1.9.0",
+    "streamlit>=1.46.1",
+    "youtube-transcript-api>=1.1.0",
+]
