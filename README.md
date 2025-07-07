@@ -26,3 +26,8 @@
 ## 📸 Work flow and Demo
 ![workflow](flowdiagram.png)
 ![homepage](homepage.png)
+**Workflow**
+![workflow](flowdiagram.png)
+**Demo**
+![homepage](homepage.png)
+![homepage](demo.png)
