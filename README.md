@@ -23,11 +23,21 @@
 
 ---
 
-## 📸 Work flow and Demo
-![workflow](flowdiagram.png)
-![homepage](homepage.png)
-**Workflow**
-![workflow](flowdiagram.png)
-**Demo**
-![homepage](homepage.png)
-![homepage](demo.png)
+## 📸 Workflow and Demo
+
+---
+### 🔁 Workflow
+
+![Workflow Diagram](flowdiagram.png)
+
+---
+
+### 💻 Homepage Demo
+
+![Homepage Screenshot](homepage.png)
+
+---
+
+### 📽️ Summary Demo Output
+
+![Demo Output](demo.png)
